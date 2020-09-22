@@ -1,0 +1,11 @@
+IBM DATA SCIENCE CAPSTONE PROJECT
+MATHEUS MAFRA OLIVEIRA ANDRADE
+
+INTRODUCTION
+There are lots of factors that can cause a car accident and define its severity. Weather, road conditions, number of cars, among other reasons can influence a car crash and the severity of the injuries on the people involved.
+With that in mind, drivers should consider those factors before getting into the car or taking a specific way. For example, drivers would prefer not to drive under rain conditions and would get a road in which there are less cars.
+Thus, this project intends to analyse all factors that influence a car accident and its severity to help drivers choose the best time or road to drive.
+
+DATA DESCRIPTION
+The data used to build the model is provided by Seattle Department of Transportation. It includes all types of collisions registered by the Seattle Police Department in every week since 2004 until now.
+The data will be used to build a model to predict the severity of a collision based on some of its characteristics.
