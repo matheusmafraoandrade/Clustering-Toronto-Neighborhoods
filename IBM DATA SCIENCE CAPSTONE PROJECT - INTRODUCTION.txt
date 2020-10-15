@@ -1,7 +1,0 @@
-IBM DATA SCIENCE CAPSTONE PROJECT
-MATHEUS MAFRA OLIVEIRA ANDRADE
-
-INTRODUCTION
-There are lots of factors that can cause a car accident and define its severity. Weather, road conditions, number of cars, among other reasons can influence a car crash and the severity of the injuries on the people involved.
-With that in mind, drivers should consider those factors before getting into the car or taking a specific way. For example, drivers would prefer not to drive under rain conditions and would get a road in which there are less cars.
-Thus, this project intends to analyse all factors that influence a car accident and its severity to help drivers choose the best time or road to drive.
